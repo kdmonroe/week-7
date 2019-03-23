@@ -29,8 +29,6 @@ dependencies:
   - datashader
   - dask
   - pyarrow
-  - python-snappy
-  - fastparquet
   - pip:
       - carto
       - pyrestcli
