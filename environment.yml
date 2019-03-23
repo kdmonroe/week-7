@@ -28,6 +28,8 @@ dependencies:
   - imageio
   - datashader
   - dask
+  - fastparquet
+  - python-snappy
   - pyarrow
   - pip:
       - carto
